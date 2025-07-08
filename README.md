@@ -5,10 +5,10 @@ This project is a comprehensive Data Analytics case study that explores student 
 ---
 
 # Project Structure
-📦 online-course-performance-analysis
-├── 📂 Data Cleaning (Excel)
+ online-course-performance-analysis
+├── Data Cleaning (Excel)
 │   └── online course student performace analysis.xlsx
-├── 📂 Visualizations (Power BI)
+├── Visualizations (Power BI)
 │   └── dashboard.pbix
 ├── screenshots 
 │ ├── overview page 1.png
