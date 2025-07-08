@@ -7,9 +7,12 @@ This project is a comprehensive Data Analytics case study that explores student 
 # Project Structure
 📦 online-course-performance-analysis
 ├── 📂 Data Cleaning (Excel)
-│   └── cleaned_dataset.xlsx
+│   └── online course student performace analysis.xlsx
 ├── 📂 Visualizations (Power BI)
 │   └── dashboard.pbix
+├── screenshots/ # Folder containing Power BI dashboard images
+│ ├── overview page 1.png
+│ ├── overview page 2.png
 ├── README.md
 
 ---
@@ -76,9 +79,10 @@ The cleaned data was visualized using Power BI, creating an interactive dashboar
 
 ## 🚀 How to Use
 
-1. Open `cleaned_dataset.xlsx` to review the cleaned data.
+1. Open `online course student performance analysis.xlsx` to review the uncleaned and cleaned data.
 2. Launch `dashboard.pbix` in Power BI Desktop.
 3. Use slicers, charts, and drill-through features to interact with the dashboard.
+4. View screenshots in the screenshots folder for a quick summary.
 
 ---
 
